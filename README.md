@@ -3,7 +3,7 @@
 Hi, I'm Wang Weitao, a passionate Frontend developer from China.
 
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org/) and [DDD](https://github.com/heynickc/awesome-ddd).
-- 👯 I’m looking to collaborate on [docs-next-zh-cn](https://github.com/vuejs/docs-next-zh-cn), [docs-cn](https://github.com/windicss/docs-cn) and [zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org).
+- 👯 I’m looking to collaborate on [vue-docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn), [windicss-docs-cn](https://github.com/windicss/docs-cn) and [zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org).
 - 💬 Ask me about anything [here](https://github.com/watonyweng/watonyweng/issues)
 
 **Languages and Tools:**
