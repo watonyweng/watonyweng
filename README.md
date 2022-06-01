@@ -13,6 +13,3 @@ Hi, I'm Wang Weitao, a passionate Frontend developer from China.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 ![watonyweng's Github Stats](https://github-readme-stats.vercel.app/api?username=watonyweng&show_icons=true&include_all_commits=true&theme=material-palenight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watonyweng&layout=compact&theme=material-palenight)
-
